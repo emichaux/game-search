@@ -1,0 +1,1 @@
+Simple app to search video games using the GiantBombAPI

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Game Search</string>
+    <string name="search">Search</string>
+    <string name="game_search_text">Enter a game to search for below.</string>
+    <string name="game_title">Game Title</string>
+    <string name="release_date">Release Date: </string>
+    <string name="searching">Searching...</string>
+    <string name="nothing_found">No Games Found</string>
+    <string name="platforms">Platforms:</string>
+</resources>
